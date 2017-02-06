@@ -1,0 +1,632 @@
+------2017-01-06 10:04:15 1483668255------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : UploadController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:04:16 1483668256------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : UploadController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:11 1483676651------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:11 1483676651------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:11 1483676651------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:26 1483676666------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:26 1483676666------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:26 1483676666------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:27 1483676667------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:27 1483676667------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:27 1483676667------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:30 1483676670------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:30 1483676670------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:30 1483676670------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:30 1483676670------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:30 1483676670------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:30 1483676670------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:25:39 1483676739------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:25:39 1483676739------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] A session had already been started - ignoring session_start()<br />
+ on line 37 in file G:\\phpstudy\\WWW\\quickoa\\main\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:25:39 1483676739------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:07:15 1483711635------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:07:15 1483711635------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:07:15 1483711635------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:07:33 1483711653------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:07:33 1483711653------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:07:33 1483711653------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:07:33 1483711653------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:07:51 1483711671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:07:51 1483711671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:07:51 1483711671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:28:11 1483712891------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:28:11 1483712891------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:28:11 1483712891------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:28:11 1483712891------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:29:48 1483712988------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:29:48 1483712988------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:29:48 1483712988------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:29:48 1483712988------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:30:20 1483713020------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:30:20 1483713020------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:30:20 1483713020------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:31:45 1483713105------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:31:45 1483713105------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:31:45 1483713105------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:31:45 1483713105------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)

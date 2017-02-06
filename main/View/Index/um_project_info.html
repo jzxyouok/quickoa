@@ -1,0 +1,71 @@
+<script>
+    var projectId = '<?php echo arRequest('id');?>';
+</script>
+<div id="um_project_info_wrap">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">基本信息</h4>
+        </div>
+        <div class="panel-body">
+            <table class="table table-bordered table-preject-info">
+                <tr>
+                    <th style="width:80px;">项目名称</th>
+                    <td class="item-name"></td>
+                </tr>
+                <tr>
+                    <th>状态信息</th>
+                    <td class="itme-status"></td>
+                </tr>
+                <tr>
+                    <th>项目金额 </th>
+                    <td class="itme-money"></td>
+                </tr>
+                <tr>
+                    <th>发布人</th>
+                    <td class="item-publisher"></td>
+                </tr>
+                <tr>
+                    <th>需求描述</th>
+                    <td class="check-info">点击查看</td>
+                </tr>
+                <tr>
+                    <th>合同日期</th>
+                    <td class="contract-date"></td>
+                </tr>
+                <tr>
+                    <th>发布日期</th>
+                    <td class="publish-date"></td>
+                </tr>
+                <tr>
+                    <th>开发周期</th>
+                    <td class="development-time"></td>
+                </tr>
+                <tr>
+                    <th>二维码</th>
+                    <td class="text-center">
+                        <img class="coder-img" src="" alt="项目二维码" width="100" height="100">
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">项目评估</h4>
+        </div>
+        <div class="panel-body">
+            <textarea name="" id="" rows="5" style="width:100%;padding:5px"></textarea>
+        </div>
+        <div class="panel-footer">
+            <div class="text-right">
+                <button type="button" class="btn btn-primary btn-sm">提交</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    window.onload = function(){
+        umProjectInfoJs();
+    }
+</script>

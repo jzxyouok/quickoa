@@ -1,0 +1,6 @@
+------2017-01-09 11:21:58 1483932118------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method indexAction<br></div>',
+  'footer' => '</div>',
+)

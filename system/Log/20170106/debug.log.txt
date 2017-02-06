@@ -1,0 +1,27 @@
+------2017-01-06 15:06:02 1483686362------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2006] MySQL server has gone away<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 15:06:02 1483686362------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct(): MySQL server has gone away on line 11 in file D:\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 15:09:35 1483686575------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 15:12:49 1483686769------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+<br></div>',
+  'footer' => '</div>',
+)

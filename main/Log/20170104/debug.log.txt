@@ -1,0 +1,1272 @@
+------2017-01-04 11:01:27 1483498887------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 20 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 31 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 42 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 53 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 64 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 75 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 90 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 101 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 112 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 127 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 138 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:01:27 1483498887------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:01:27 1483498887------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:01:30 1483498890------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method getUserInfoAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:01:30 1483498890------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method ItemAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:01:51 1483498911------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 20 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 31 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 42 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 53 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 64 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 75 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 90 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 101 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 112 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 127 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 138 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:01:51 1483498911------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:01:51 1483498911------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:01:53 1483498913------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method getUserInfoAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:01:53 1483498913------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method ItemAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:03:39 1483499019------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 20 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 31 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 42 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 53 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 64 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 75 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 90 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 101 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 112 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 127 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 138 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:03:39 1483499019------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:03:39 1483499019------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:03:42 1483499022------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method ItemAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:05:22 1483499122------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 20 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 31 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 42 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 53 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 64 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 75 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 90 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 101 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 112 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 127 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 138 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:05:23 1483499123------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:05:23 1483499123------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:05:25 1483499125------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method ItemAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:06:49 1483499209------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:06:49 1483499209------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:06:49 1483499209------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:06:52 1483499212------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method ItemAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:08:44 1483499324------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:08:44 1483499324------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:08:44 1483499324------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:09:18 1483499358------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:09:18 1483499358------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:09:18 1483499358------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:10:11 1483499411------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:10:11 1483499411------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:10:11 1483499411------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:10:14 1483499414------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : MainController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:10:28 1483499428------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:10:28 1483499428------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:10:28 1483499428------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:22:04 1483500124------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:22:04 1483500124------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:22:04 1483500124------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:22:06 1483500126------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:22:06 1483500126------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:22:06 1483500126------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:22:11 1483500131------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:22:11 1483500131------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:22:11 1483500131------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:26:31 1483500391------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:26:31 1483500391------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:26:31 1483500391------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:30:49 1483500649------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:33:04 1483500784------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:33:04 1483500784------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:33:07 1483500787------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:33:07 1483500787------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:33:07 1483500787------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:33:08 1483500788------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:33:08 1483500788------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:33:08 1483500788------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:39:52 1483501192------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:39:52 1483501192------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:39:52 1483501192------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:42:22 1483501342------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:42:22 1483501342------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:42:22 1483501342------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:42:28 1483501348------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:42:30 1483501350------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:42:30 1483501350------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:44:45 1483501485------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : UploadController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:44:45 1483501485------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : UploadController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:44:45 1483501485------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : UploadController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:44:45 1483501485------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : UploadController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:44:45 1483501485------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : UploadController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:44:45 1483501485------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : UploadController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:44:45 1483501485------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:45:25 1483501525------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:45:27 1483501527------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:45:27 1483501527------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:45:38 1483501538------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:45:38 1483501538------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method www.http.comAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:46:01 1483501561------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:46:02 1483501562------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 19 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 30 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 41 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 52 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 63 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 74 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 89 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 100 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 111 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 126 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 137 in file D:\\WWW\\quickoa\\main\\View\\Index\\um_project.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 11:46:02 1483501562------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file D:\\WWW\\quickoa\\arphp.php, PHP 5.5.30 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:16:28 1483528588------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:16:28 1483528588------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] A session had already been started - ignoring session_start()<br />
+ on line 37 in file G:\\phpstudy\\WWW\\quickoa\\main\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:16:43 1483528603------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:16:47 1483528607------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : not fount layout header file : abc_header.html<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:16:48 1483528608------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:16:48 1483528608------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:16:48 1483528608------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:17:00 1483528620------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:17:00 1483528620------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] A session had already been started - ignoring session_start()<br />
+ on line 37 in file G:\\phpstudy\\WWW\\quickoa\\main\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:17:00 1483528620------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:17:26 1483528646------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:17:26 1483528646------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] A session had already been started - ignoring session_start()<br />
+ on line 37 in file G:\\phpstudy\\WWW\\quickoa\\main\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:17:42 1483528662------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:17:44 1483528664------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : not fount layout header file : abc_header.html<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:17:45 1483528665------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:17:45 1483528665------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:17:45 1483528665------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:17:50 1483528670------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:19:07 1483528747------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:19:07 1483528747------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:19:10 1483528750------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : UploadController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:19:10 1483528750------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:19:12 1483528752------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method photoSrcModalAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:19:12 1483528752------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:19:18 1483528758------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : not fount layout header file : abc_header.html<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:19:18 1483528758------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:19:18 1483528758------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:19:18 1483528758------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:19:18 1483528758------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:20:32 1483528832------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:20:32 1483528832------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-04 19:20:46 1483528846------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)

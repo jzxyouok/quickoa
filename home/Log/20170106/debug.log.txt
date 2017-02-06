@@ -1,0 +1,2459 @@
+------2017-01-06 09:48:54 1483667334------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined index: id<br />
+ on line 61 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_itemsModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:48:56 1483667336------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method arU<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:49:00 1483667340------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:49:01 1483667341------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:49:01 1483667341------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:49:01 1483667341------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] A session had already been started - ignoring session_start()<br />
+ on line 59 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:49:17 1483667357------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:49:17 1483667357------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:49:17 1483667357------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:49:17 1483667357------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:50:02 1483667402------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:50:02 1483667402------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:50:03 1483667403------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:50:03 1483667403------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:56:39 1483667799------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined index: id<br />
+ on line 61 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_itemsModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:57:07 1483667827------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:57:07 1483667827------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:57:07 1483667827------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:57:07 1483667827------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:58:07 1483667887------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 09:58:14 1483667894------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:02:52 1483668172------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:02:55 1483668175------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:02:56 1483668176------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:02:57 1483668177------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:02:58 1483668178------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:04:15 1483668255------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: value<br />
+ on line 22 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:06:41 1483668401------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:10:11 1483668611------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:10:14 1483668614------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:18:45 1483669125------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] include(G:\\phpstudy\\WWW\\quickoa\\home\\View\\blackberry.png) [<a href=\'function.include\'>function.include</a>]: failed to open stream: No such file or directory on line 155 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] include() [<a href=\'function.include\'>function.include</a>]: Failed opening \'G:\\phpstudy\\WWW\\quickoa\\home\\View\\blackberry.png\' for inclusion (include_path=\'.;C:\\php\\pear\') on line 155 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:18:50 1483669130------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] include(G:\\phpstudy\\WWW\\quickoa\\home\\View\\blackberry.png) [<a href=\'function.include\'>function.include</a>]: failed to open stream: No such file or directory on line 155 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] include() [<a href=\'function.include\'>function.include</a>]: Failed opening \'G:\\phpstudy\\WWW\\quickoa\\home\\View\\blackberry.png\' for inclusion (include_path=\'.;C:\\php\\pear\') on line 155 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br>&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:19:48 1483669188------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:19:51 1483669191------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined index: id<br />
+ on line 61 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_itemsModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:20:50 1483669250------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:20:59 1483669259------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:21:17 1483669277------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:25:19 1483669519------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:25:33 1483669533------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined index: id<br />
+ on line 61 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_itemsModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:41:55 1483670515------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:42:08 1483670528------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:42:08 1483670528------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:42:08 1483670528------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] A session had already been started - ignoring session_start()<br />
+ on line 59 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:42:08 1483670528------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:42:21 1483670541------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:42:21 1483670541------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: iteminfo<br />
+ on line 46 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_item_taskModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:43:02 1483670582------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: iteminfo<br />
+ on line 46 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_item_taskModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:43:43 1483670623------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:43:44 1483670624------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: iteminfo<br />
+ on line 46 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_item_taskModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:43:47 1483670627------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:43:47 1483670627------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:43:47 1483670627------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] A session had already been started - ignoring session_start()<br />
+ on line 59 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:43:47 1483670627------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:44:03 1483670643------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:44:53 1483670693------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:45:11 1483670711------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined index: id<br />
+ on line 61 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_itemsModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:49:25 1483670965------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:49:30 1483670970------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:49:32 1483670972------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined index: id<br />
+ on line 61 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_itemsModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:50:08 1483671008------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:50:08 1483671008------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:51:03 1483671063------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined index: id<br />
+ on line 61 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_itemsModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:52:06 1483671126------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 10:52:20 1483671140------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: items<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:11:48 1483672308------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined index: id<br />
+ on line 61 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_itemsModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:12:12 1483672332------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined index: id<br />
+ on line 61 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_itemsModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:13:12 1483672392------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined index: id<br />
+ on line 61 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_itemsModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:13:19 1483672399------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined index: id<br />
+ on line 61 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_itemsModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:14:27 1483672467------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined index: id<br />
+ on line 61 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_itemsModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:14:44 1483672484------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined index: id<br />
+ on line 61 in file G:\\phpstudy\\WWW\\quickoa\\Lib\\Model\\U_itemsModel.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:15:44 1483672544------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method arU<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:18:45 1483672725------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method arU<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:18:49 1483672729------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method arU<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:18:52 1483672732------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method arU<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:18:58 1483672738------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method arU<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:19:00 1483672740------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:19:00 1483672740------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:19:00 1483672740------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] A session had already been started - ignoring session_start()<br />
+ on line 59 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:28:39 1483673319------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:28:39 1483673319------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:28:39 1483673319------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:28:45 1483673325------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:28:48 1483673328------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:28:52 1483673332------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:39 1483673499------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:40 1483673500------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcimgAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:40 1483673500------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcimgAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:40 1483673500------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method arU<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:46 1483673506------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:46 1483673506------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcimgAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:47 1483673507------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method arU<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:47 1483673507------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:47 1483673507------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcimgAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:48 1483673508------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method arU<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:48 1483673508------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:48 1483673508------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcimgAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:48 1483673508------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method arU<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:51 1483673511------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:51 1483673511------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:51 1483673511------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] A session had already been started - ignoring session_start()<br />
+ on line 59 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:31:51 1483673511------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:03 1483673523------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:03 1483673523------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcimgAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:03 1483673523------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method 1.jpgAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:03 1483673523------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method item62.pngAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:24 1483673544------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:25 1483673545------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcimgAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:25 1483673545------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method arU<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:28 1483673548------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:28 1483673548------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:28 1483673548------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] A session had already been started - ignoring session_start()<br />
+ on line 59 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:28 1483673548------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:39 1483673559------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:39 1483673559------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcimgAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:39 1483673559------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method item62.pngAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:32:39 1483673559------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method 1.jpgAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:51:30 1483674690------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:51:30 1483674690------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:51:32 1483674692------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:52:31 1483674751------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:52:31 1483674751------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:52:33 1483674753------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:54:43 1483674883------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:54:43 1483674883------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:54:44 1483674884------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 11:59:53 1483675193------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method %20itemInfoAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:08 1483676648------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 你的主机中的软件中止了一个已建立的连接。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:08 1483676648------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 你的主机中的软件中止了一个已建立的连接。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:26 1483676666------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:26 1483676666------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:27 1483676667------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:27 1483676667------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:28 1483676668------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:29 1483676669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:30 1483676670------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:30 1483676670------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:30 1483676670------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:30 1483676670------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 向一个无法连接的网络尝试了一个套接字操作。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:24:31 1483676671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 向一个无法连接的网络尝试了一个套接字操作。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:25:47 1483676747------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:25:47 1483676747------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:25:47 1483676747------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:25:50 1483676750------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:25:50 1483676750------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:25:50 1483676750------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:25:51 1483676751------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:25:51 1483676751------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 12:25:54 1483676754------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:34:32 1483680872------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:34:32 1483680872------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:34:32 1483680872------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:34:39 1483680879------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:34:39 1483680879------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:34:42 1483680882------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:35:21 1483680921------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:35:21 1483680921------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:35:22 1483680922------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:36:15 1483680975------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:36:15 1483680975------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:36:18 1483680978------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:37:31 1483681051------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:37:31 1483681051------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:37:35 1483681055------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:37:50 1483681070------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:37:50 1483681070------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 13:37:50 1483681070------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:06:51 1483682811------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:06:51 1483682811------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:06:51 1483682811------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:09:28 1483682968------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:09:28 1483682968------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:09:30 1483682970------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:09:57 1483682997------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:09:57 1483682997------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:09:59 1483682999------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:56:12 1483685772------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:56:12 1483685772------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:56:15 1483685775------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:56:18 1483685778------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:56:18 1483685778------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:56:18 1483685778------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:56:23 1483685783------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:56:23 1483685783------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:56:27 1483685787------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:56:52 1483685812------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:56:52 1483685812------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:56:54 1483685814------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:57:01 1483685821------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:57:02 1483685822------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:58:20 1483685900------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:58:20 1483685900------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 14:58:21 1483685901------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 15:19:27 1483687167------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 15:19:27 1483687167------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 15:19:34 1483687174------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 15:43:32 1483688612------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 15:43:32 1483688612------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 15:43:35 1483688615------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 15:43:35 1483688615------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 15:43:49 1483688629------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 15:43:49 1483688629------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 15:43:51 1483688631------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 16:00:10 1483689610------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 16:00:10 1483689610------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 16:00:10 1483689610------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 16:00:12 1483689612------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 16:01:40 1483689700------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 16:01:41 1483689701------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 16:01:43 1483689703------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:58:50 1483711130------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:58:50 1483711130------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:58:55 1483711135------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:58:55 1483711135------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:58:56 1483711136------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] A session had already been started - ignoring session_start()<br />
+ on line 59 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:04 1483711144------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:04 1483711144------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:09 1483711149------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:09 1483711149------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:10 1483711150------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:10 1483711150------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:10 1483711150------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:10 1483711150------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:26 1483711166------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:26 1483711166------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:27 1483711167------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:27 1483711167------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:53 1483711193------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:53 1483711193------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 21:59:57 1483711197------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:00:28 1483711228------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:00:29 1483711229------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:00:31 1483711231------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:05:18 1483711518------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:05:18 1483711518------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:05:39 1483711539------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">PDOException</b> : SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:05:39 1483711539------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>Undefined error</b> : [2] PDO::__construct() [<a href=\'pdo.--construct\'>pdo.--construct</a>]: [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ (trying to connect via tcp://211.149.195.135:9906) on line 11 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:05:39 1483711539------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:05:39 1483711539------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:05:40 1483711540------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:07:15 1483711635------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method productinfoAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:07:33 1483711653------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method productinfoAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:07:51 1483711671------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method productinfoAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:08:08 1483711688------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:08:08 1483711688------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:08:08 1483711688------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:26:29 1483712789------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:26:29 1483712789------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:26:29 1483712789------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined index: u_id<br />
+ on line 31 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\ItemController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:27:57 1483712877------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:27:57 1483712877------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:27:57 1483712877------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:27:57 1483712877------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] A session had already been started - ignoring session_start()<br />
+ on line 59 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:28:09 1483712889------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:28:09 1483712889------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:28:09 1483712889------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:28:11 1483712891------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method productinfoAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:29:46 1483712986------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:29:46 1483712986------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:29:47 1483712987------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:29:48 1483712988------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method productinfoAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:30:20 1483713020------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method productinfoAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:31:45 1483713105------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method productinfoAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:31:46 1483713106------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:31:46 1483713106------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:31:46 1483713106------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:35:25 1483713325------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:35:25 1483713325------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:35:25 1483713325------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:51:32 1483714292------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:51:32 1483714292------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:51:32 1483714292------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:51:34 1483714294------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:51:34 1483714294------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:51:35 1483714295------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:54:03 1483714443------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:54:04 1483714444------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:54:12 1483714452------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:54:12 1483714452------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:54:12 1483714452------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 22:54:20 1483714460------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:00:06 1483714806------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:00:06 1483714806------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:00:07 1483714807------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:00:07 1483714807------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:00:07 1483714807------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:00:10 1483714810------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:02:12 1483714932------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:02:12 1483714932------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:02:14 1483714934------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:04:20 1483715060------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:04:20 1483715060------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:04:22 1483715062------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:04:24 1483715064------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:10:03 1483715403------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:10:49 1483715449------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:10:52 1483715452------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:10:52 1483715452------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:10:54 1483715454------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:10:55 1483715455------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:10:55 1483715455------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:10:55 1483715455------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:10:56 1483715456------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:10:56 1483715456------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:11:13 1483715473------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:11:13 1483715473------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:12:05 1483715525------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:12:05 1483715525------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:12:05 1483715525------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:12:08 1483715528------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:12:10 1483715530------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:12:12 1483715532------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:12:13 1483715533------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:12:13 1483715533------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:12:14 1483715534------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:13:46 1483715626------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:14:08 1483715648------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:14:08 1483715648------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] A session had already been started - ignoring session_start()<br />
+ on line 59 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:14:08 1483715648------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG SERVER_ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:red;\'>ERROR</b> [256] class : PublicController does not exist !<br />
+  Fatal error on line 129 in file G:\\phpstudy\\WWW\\quickoa\\arphp.php, PHP 5.3.29 (WINNT)<br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:14:18 1483715658------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Use of undefined constant personProId - assumed \'personProId\'<br />
+ on line 25 in file G:\\phpstudy\\WWW\\quickoa\\home\\View\\Index\\showlist.html <br />
+<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:14:18 1483715658------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:14:21 1483715661------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG EXCEPTION INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style="color:#ec8186;">ArException</b> : class do not have a method srcAction<br></div>',
+  'footer' => '</div>',
+)
+------2017-01-06 23:14:29 1483715669------
+array (
+  'header' => '<div style="width:98%;bottom:30px"><div style="border-top:1px #666 dashed;background:#f1f1f1;text-align:center;font-size:20px;margin:10px 0px 10px;">[DEBUG ERROR INFO] </div>',
+  'showMsg' => '<div style="padding:5px;background:#f3f3f1;line-height:30px">&nbsp;&nbsp;<b style=\'color:#ec8186;\'>NOTICE</b> [8] Undefined variable: itemsinfo<br />
+ on line 117 in file G:\\phpstudy\\WWW\\quickoa\\home\\Controller\\IndexController.class.php <br />
+<br></div>',
+  'footer' => '</div>',
+)
